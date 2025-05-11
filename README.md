@@ -15,7 +15,7 @@
 ## 🚀 การติดตั้ง
 1. โคลนโปรเจกต์:
    ```bash
-   git clone <[repository_url](https://github.com/petchdiamonddev/xampp-mysql-utils)>
+   git clone (https://github.com/petchdiamonddev/xampp-mysql-utils)>
    cd xampp-mysql-utils
    ```
 
